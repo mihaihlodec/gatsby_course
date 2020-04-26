@@ -1,7 +1,7 @@
 ---
 path: "/post-one"
 date: "2020-04-26"
-title: "First Gatsby Post"
+title: "How to deal with too much income"
 author: "Moa"
 ---
 

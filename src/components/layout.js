@@ -37,9 +37,9 @@ const Layout = ({ children }) => {
         <Menu />
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built with
+          © {new Date().getFullYear()}, Built by
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <a href="https://www.youtube.com/watch?v=EMPxrXKAXxA">hlodec</a>
         </footer>
       </div>
     </>

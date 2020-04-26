@@ -1,7 +1,7 @@
 ---
 path: "/post-three"
 date: "2020-04-28"
-title: "Third Gatsby Post"
+title: "Cum am ajuns un smecher"
 author: "Third Moa"
 ---
 
